@@ -1,2 +1,5 @@
 # opengl-renderer
- Learning project for opengl.
+Learning project for opengl.
+Dependencies:
+GLFW
+GLAD
